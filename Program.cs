@@ -1,7 +1,4 @@
-﻿using System.Linq;
-using System.Xml.Linq;
-
-namespace AddTwoNumbers
+﻿namespace AddTwoNumbers
 {
     internal class Program
     {
